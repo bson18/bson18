@@ -10,6 +10,7 @@ Additional Skills - HTML, CSS, SQL, Git
 
 As someone who has always been interested in new technologies, I've always been interested in learning to code, but it finally took the COVID years to get me to push from turning my interest and tech hobbies into an actual career. I love the problem solving aspect of software development, and I am always looking for new ways to improve and challenge myself while learning new and different technologies.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bson18)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **bson18/bson18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
